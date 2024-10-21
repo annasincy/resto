@@ -1,0 +1,10 @@
+.hero-contnt {
+  background: url(../../../public/images/mae-mu-PTdm4YUtloY-unsplash.jpg);
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.hero-contnt h1 {
+  font-size: 80px;
+}

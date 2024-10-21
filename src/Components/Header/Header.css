@@ -1,0 +1,11 @@
+.menu ul li {
+  display: inline-block;
+  margin: 0px 10px;
+}
+.menu ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+.logo h3 {
+  color: #fff;
+}

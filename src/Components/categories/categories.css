@@ -1,0 +1,19 @@
+.category-btn {
+  background-color: #874f41;
+  padding: 10px 15px;
+  border: 1px solid #874f41;
+  margin: 10px;
+  color: #fff;
+  border-radius: 50px;
+}
+.active {
+  background-color: #000000;
+}
+.out-of-stock {
+  background: url(../../../public/images/sorry-temporarily-out-of-stock-sign-vector.jpg);
+  height: 300px;
+  width: 400px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;  
+}
